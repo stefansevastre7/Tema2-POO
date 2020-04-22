@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1587581441 source:c:\users\stefan\desktop\tema2poo\main.cpp
+	<iostream>
+	<cstring>
+	"Nod.h"
+	"Coada.h"
+	"Deque.h"
+	"Deque_marcaj.h"
+
+1587582195 c:\users\stefan\desktop\tema2poo\nod.h
+
+1587581280 c:\users\stefan\desktop\tema2poo\coada.h
+	"Nod.h"
+
+1587582195 c:\users\stefan\desktop\tema2poo\deque.h
+	"Coada.h"
+
+1587582349 c:\users\stefan\desktop\tema2poo\deque_marcaj.h
+	"Coada.h"
+
